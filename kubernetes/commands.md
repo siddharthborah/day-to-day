@@ -8,6 +8,7 @@ kubeclt get pods          // list all the resources of a type,
 kubeclt get nodes         // you can use any resource type instead of nodes
 kubectl get ns            // gets detail of namespaces
 kubeclt describe po <podname> // shows the detail os a particulat resource
+kubectl get pods -o wide // get more details like ip and hostname
 ```
 
 #### Getting deatil in yaml or json
