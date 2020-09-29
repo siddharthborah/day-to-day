@@ -122,3 +122,8 @@ csinodes
 storageclasses                    sc        
 volumeattachments                           
 ```
+
+### References
+* https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+* https://kubernetes.io/docs/reference/kubectl/jsonpath/
+
