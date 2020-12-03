@@ -38,6 +38,11 @@ kubectl get ns
 kubectl --namespace=myNamespace get pods
 ```
 
+### Scaling resources
+```
+ k scale --replicas=3 deployment/sla-service
+```
+
 ## Getting help
 ```
 kubectl <command> --help
