@@ -51,6 +51,11 @@ kubectl explain <resorce-type>
 kubectl explain services
 ```
 
+### Working with multiple clusters
+```
+kubectl config get-contexts
+```
+
 ## Resources
 
 ```
